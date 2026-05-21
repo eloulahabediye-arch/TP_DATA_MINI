@@ -1,0 +1,49 @@
+# Nezihe SideAhmed c29761 DA2I
+# Aghlahou med mahmoud c29951  DA2I
+
+
+
+# Customer Segmentation using RFM and K-Means
+
+## Description
+
+Ce projet de Data Mining vise à segmenter les clients d’un magasin de commerce électronique en utilisant :
+
+- L’analyse RFM (Recency, Frequency, Monetary)
+- L’algorithme K-Means Clustering
+
+L’objectif est d’identifier différents groupes de clients afin d’aider les stratégies marketing et la prise de décision.
+
+---
+
+## Technologies Utilisées
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
+- VS Code
+
+---
+
+## Dataset
+
+Dataset utilisé :
+
+- Online Retail Dataset
+
+Format :
+- CSV
+
+---
+
+## Structure du Projet
+
+```text
+Customer_Segmentation_Project/
+│
+├── customer_segmentation.ipynb
+├── OnlineRetail.csv
+└── README.md
